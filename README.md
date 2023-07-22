@@ -22,9 +22,9 @@ a VNC server that allows to interact with the IB Gateway user interface (optiona
 ## Supported Tags
 
 | Channel  | IB Gateway Version | IBC Version | Docker Tags                 |
-| -------- | ------------------ | ----------- | --------------------------- |
+| -------- |--------------------|-------------|-----------------------------|
 | `latest` | `10.22.1m`         | `3.16.0`    | `latest` `10.22` `10.22.1m` |
-| `stable` | `10.19.1j`         | `3.15.2`    | `stable` `10.19` `10.19.1j` |
+| `stable` | `10.19.2a`         | `3.16.2`    | `stable` `10.19` `10.19.2a` |
 
 
 See all available tags [here](https://github.com/brschick/ib-gateway-docker/pkgs/container/ib-gateway/).
