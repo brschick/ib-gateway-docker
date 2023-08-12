@@ -8,6 +8,8 @@ A docker image to run the Interactive Brokers Gateway Application without any hu
 
 Based on https://github.com/UnusualAlpha/ib-gateway-docker
 
+**This repo is focused on keeping the stable tag up to date**
+
 It includes:
 
 - [IB Gateway Application](https://www.interactivebrokers.com/en/index.php?f=16457) ([stable](https://www.interactivebrokers.com/en/trading/ibgateway-stable.php), [latest](https://www.interactivebrokers.com/en/trading/ibgateway-latest.php))
